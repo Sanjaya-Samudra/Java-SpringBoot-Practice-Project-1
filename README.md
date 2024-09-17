@@ -16,4 +16,3 @@ This project is a Spring Boot application designed for testing purposes. It demo
 
 ```bash
 git clone https://github.com/Sanjaya-Samudra/Java-SpringBoot-Test-Projects.git
-cd spring-boot-test-project
